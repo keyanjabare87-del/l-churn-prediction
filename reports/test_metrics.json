@@ -1,0 +1,11 @@
+{
+    "model": "RandomForestClassifier",
+    "max_depth": 8,
+    "min_samples_leaf": 2,
+    "threshold": 0.52,
+    "accuracy": 0.7608232789212207,
+    "precision": 0.535645472061657,
+    "recall": 0.7433155080213903,
+    "f1": 0.6226203807390818,
+    "roc_auc": 0.8417344803534061
+}
